@@ -29,7 +29,7 @@ This library supports the following tooling versions:
 
 ### Configuration
 
-Set up the fillowing env vars. For local development you can set them in a `.env` file. See an example [here](../../examples/sveltekit/example.env)).
+Set up the following env vars. For local development you can set them in a `.env` file. See an example [here](../../examples/sveltekit/example.env)).
 
 ```bash
 # Find these in your Supabase project settings > API
